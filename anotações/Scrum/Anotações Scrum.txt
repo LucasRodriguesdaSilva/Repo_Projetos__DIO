@@ -1,0 +1,30 @@
+SCRUM:
+
+- O Scrum é uma estrutura que ajuda as equipes a tabalharem juntas.
+
+- O Scrum estimula as equipes a aprenderem com as experiências, a se 
+organizarem enquando resolvem um problema e a refletirem sobre os êxitos 
+e fracassos para melhorarem sempre.
+
+- A estrutura do scrum é basesa no aprendizado contínuo e na adaptação
+aos fatores variáveis.
+
+- Artefato é algo que produzimos, como uma ferramenta para resolver problemas.
+
+- backlog do produto é a principal lista do trabalho que precisa ser feita e 
+é mantida pelo proprietário do produto ou gerente de produtos.
+
+- backlog do Sprint é a lista de itens, histórias de usuários ou correções 
+de bugs selecionada pelas equipes de desenvolvimento para a implementação no 
+ciclo atual de sprint.
+
+- Incremento é o produto final utilizavel, proveniente de um sprint.
+
+- Sprint é o período real em que a equipe do scrum trabalha em conjunto 
+para concluir um incremento.
+
+- Organizar o backlog pode ser conhecido como "preparação do backlog", 
+esse evento é responsabilidade do proprietário do produto.
+
+- Scrum diário é uma reunião diária bem rápida que ocorre na mesma hora 
+e local para manter a simplicidade.

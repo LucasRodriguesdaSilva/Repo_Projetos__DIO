@@ -1,0 +1,6 @@
+Principais comandos Git:
+
+- git add -> adiciona os arquivos solicitados ao ambiente stage.
+- git commit -> fazemos a gravação em si das modificações, desta forma criamos um snapshot do estado atual do nosso projeto.
+- git push -> é utilizado para "subir" as modificações no nosso repositório remoto.
+- git status -> verifica o estado, permite ver quais arquivos estão sendo "rastreados" pelo git e quais modificações já foram enviadas para o stage.
